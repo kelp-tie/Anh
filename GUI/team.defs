@@ -1,0 +1,17 @@
+#Fri Mar 13 13:13:21 NZDT 2020
+bluej.teamsettings.groupname=
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.yourName=Anh
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.yourEmail=nguyean2@whs.school.nz
+bluej.teamsettings.git.repositoryPrefix=/kelp-tie/AHoang.git
+bluej.teamsettings.vcs=git
+bluej.teamsettings.user=kelp-tie
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.ignore8=\\.DS_Store

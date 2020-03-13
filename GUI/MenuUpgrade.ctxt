@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MenuUpgrade
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MenuUpgrade\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MenuUpgrade\r\n
+comment2.params=
+comment2.target=void\ Dialog()
+comment3.params=
+comment3.target=void\ Dialog2()
+comment4.params=
+comment4.target=MenuUpgrade()
+numComments=5
